@@ -1,2 +1,2 @@
 include Makefile.mk
-NAME=xebia
+USERNAME=xebia
